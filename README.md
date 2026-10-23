@@ -1,2 +1,0 @@
-# dera-komputer
-Cyber Cafe
